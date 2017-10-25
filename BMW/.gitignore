@@ -1,0 +1,13 @@
+/bin/*
+/lib/*
+.project
+.pydevproject
+*.pyc
+*.pyo
+/venv/*
+/bmw_env/*
+BMW/BMW/settings.py
+*org.eclipse.core.resources.prefs
+*/media/*
+/media/*
+
